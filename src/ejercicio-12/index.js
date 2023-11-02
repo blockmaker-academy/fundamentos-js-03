@@ -2,5 +2,5 @@
 const numString = '25'
 const integerNumber = parseInt(numString)
 
-console.log(integerNumber)//resultado 25
+console.log(integerNumber)//resultado 24
 
