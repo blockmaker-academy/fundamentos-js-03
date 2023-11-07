@@ -1,1 +1,5 @@
 // Escribe tu código aquí:
+const sentence = 'Hola, ¿cómo estás?'
+const position = sentence.indexOf('l')
+
+console.log(position)
